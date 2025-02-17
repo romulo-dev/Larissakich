@@ -82,14 +82,14 @@ Meu nome é Rômulo Rocha, sou natural de São Gonçalo do Rio Preto - MG. Sou b
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-<img 
+<!-- <img 
     align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="![](https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png)" 
-/>
+/> -->
 
 
 <img 
