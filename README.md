@@ -4,7 +4,7 @@
 
 Meu nome é Rômulo Rocha, sou natural de São Gonçalo do Rio Preto - MG. Sou bacharel em Sistemas de Informação pela UFVJM. O que me fascina nessa área de TI é a possibilidade de trabalhar com diferentes tecnologias e áreas do conhecimento como por exemplo engenharia e Recursos Humanos. Atualmente busco a minha primeira vaga em uma empresa de TI. Meu linkedin é "[Rômulo Soares Rocha](https://www.linkedin.com/in/romulo-soares-rocha/)".
 
-<p align="left">
+<!-- <p align="left">
    
     <a href="https://github.com/romulo-dev?tab=repositories&sort=stargazers">
         <img 
@@ -20,7 +20,7 @@ Meu nome é Rômulo Rocha, sou natural de São Gonçalo do Rio Preto - MG. Sou b
             src="https://custom-icon-badges.demolab.com/github/followers/romulo-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</p>
+</p> -->
 
 ---
 
@@ -64,7 +64,7 @@ Meu nome é Rômulo Rocha, sou natural de São Gonçalo do Rio Preto - MG. Sou b
     title="Angular"
     width="30px" 
     style="padding-right: 10px;" 
-    src="![https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg](https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg)" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
 />
 <img 
     align="left" 
